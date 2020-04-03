@@ -1,5 +1,5 @@
 def hello
-  p "hello, commit push ahahahaha."
+  p "mata henkou mou unzari unzari"
 end
 
 hello
