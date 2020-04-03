@@ -1,5 +1,5 @@
 def hello
-  p "hello, gitgiigi6gi6yiy."
+  p "hello, commit push ahahahaha."
 end
 
 hello
