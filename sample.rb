@@ -1,5 +1,5 @@
 def hello
-  p "mata henkou mou unzari unzari"
+  p BBBBB
 end
 
 hello
